@@ -1,0 +1,5 @@
+
+#ifndef PRACTPROJ_TEXT_H
+#define PRACTPROJ_TEXT_H
+
+#endif //PRACTPROJ_TEXT_H

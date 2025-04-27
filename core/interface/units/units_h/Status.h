@@ -1,0 +1,5 @@
+
+#ifndef PRACTPROJ_STATUS_H
+#define PRACTPROJ_STATUS_H
+
+#endif //PRACTPROJ_STATUS_H
